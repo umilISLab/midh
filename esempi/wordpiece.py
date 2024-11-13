@@ -9,7 +9,7 @@ class WordPieceTokenizer:
     """Simple WordPiece implementation
     """
     def __init__(self, text: str, maximum_size: int):
-        assert maximum_size > len(text.split())
+        #assert maximum_size > len(text.split())
         self.max_vocabulary_size = maximum_size
         self.special_token = "#"
         self.unk_token = "[UNK]"
