@@ -3,15 +3,15 @@
 
 ### Prof. Alfio Ferrara, Prof.ssa Silvana Castano
 
-##### A.A. 2024/2025
+##### A.A. 2025/2026
 
-Il corso si svolge da lunedì 16 settembre 2024 a mercoledì 27 novembre 2024 con cadenza regolare secondo il seguente orario:
+Il corso si svolge da lunedì 15 settembre 2025 a mercoledì 3 dicembre 2025 con cadenza regolare secondo il seguente orario:
 
-- Lunedì ore 16:30 – 18:30, Aula M205, Santa Sofia
+- Lunedì ore 16:30 – 18:30, Aula Zeta, Santa Sofia
 - Martedì ore 16:30 – 18:30, Aula M204, Santa Sofia
 - Mercoledì ore 16:30 – 18:30, Aula M401, Santa Sofia
 
-Fa eccezione la settimana dell’11, 12 e 13 novembre 2024 in cui le lezioni sono sospese. Il calendario potrebbe subire ulteriori variazioni dovute a impegni dei docenti, che saranno in tal caso comunicate tempestivamente sul sito Ariel del corso. Lezioni eventualmente annullate per le suddette ragioni saranno recuperate entro il I semestre dell’A.A. 2024/25.
+Il calendario potrebbe subire ulteriori variazioni dovute a impegni dei docenti, che saranno in tal caso comunicate tempestivamente sul sito Ariel del corso. Lezioni eventualmente annullate per le suddette ragioni saranno recuperate entro il I semestre dell’A.A. 2025/26.
 
 ### Syllabus
 
