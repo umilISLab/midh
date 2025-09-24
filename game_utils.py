@@ -1,5 +1,5 @@
 def user_input(valid_options):
-    opt = " / ".join(list(valid_options))
+    opt = " / ".join([str(x) for x in valid_options])
     error = True
     while error:
         iu = input(f"Scegli fra {opt}\n")
