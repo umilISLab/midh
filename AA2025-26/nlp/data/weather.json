@@ -1,0 +1,19 @@
+{"weather": [
+    ["montagna", "neve", "ghiaccio", "picco", "bosco", "freddo"],
+    ["spiaggia", "sabbia", "mare", "onda", "sole", "caldo"],
+    ["deserto", "duna", "cactus", "sabbia", "sole", "arido"],
+    ["foresta", "albero", "foglia", "animale", "pioggia", "umidità"],
+    ["fiume", "acqua", "pesce", "primavera", "corrente", "pozza"],
+    ["cielo", "nuvola", "vento", "pioggia", "tuono", "arcobaleno"],
+    ["lago", "acqua", "barca", "pesce", "riva", "tranquillità"],
+    ["vulcano", "lava", "roccia", "fumo", "cratere", "calore"],
+    ["prato", "erba", "fiore", "ape", "sole"],
+    ["notte", "luna", "stella", "buio", "silenzio", "ombra"],
+    ["collina", "sentiero", "erba", "vento", "tramonto", "orizzonte"],
+    ["tempesta", "vento", "pioggia", "fulmine", "mare"],
+    ["grotta", "roccia", "buio", "eco", "acqua"],
+    ["inverno", "neve", "freddo", "ghiaccio", "vento", "brina"],
+    ["foglia", "pioggia", "vento", "terra"],
+    ["primavera", "fiore", "sole", "erba"]
+    ]}
+  
